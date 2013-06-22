@@ -1,3 +1,5 @@
+Special shoutout from Nicky Glasses, creator of GLDcoin.
+
 GLDCoin - a lite version of Litecoin using scrypt as a proof of work scheme.
  - 2.5 minute block targets
 
