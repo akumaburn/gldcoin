@@ -8,10 +8,7 @@ Block reawrds in order:
  - 200 Block @ 10000 GLD
  - 2000	Blocks @ 1000 GLD
  - 24000 Blocks @ 500 GLD
- - 22500 Blocks @ 400 GLD
- - 125000 Blocks @ 200 GLD
- - 500000 Blocks @ 100	GLD
- - ~100 million total coins
+
  - The default ports are 8121 (connect) and 8122 (fson rpc)
 
 
